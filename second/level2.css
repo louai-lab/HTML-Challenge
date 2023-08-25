@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+    border-radius: 50px;
+}
+
+article{
+    margin: 20px;
+}
+
+ul{
+    border: 5px solid blue;
+}
